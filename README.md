@@ -10,6 +10,7 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 6. teach-tech mx
 7. teacher mx 
 8. EduApoyo
+9. educabot
 
 ## Google Forms
 ###### Objetivos
