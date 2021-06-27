@@ -7,8 +7,8 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 3. Cauce
 4. Armillaria
 5. educa mx
-6.
-7.
+6. teach-tech mx
+7. teacher mx 
 
 ## Google Forms
 ###### Objetivos
