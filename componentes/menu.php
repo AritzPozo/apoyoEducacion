@@ -17,10 +17,10 @@
     </div>
     <div class='menuMobint'>
     <a href='/home'><div class='menuopt <?php echo $selc[0];?>'>Home</div></a>
-        <a href='/pagina1'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
-        <a href='/pagina2'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
-        <a href='/pagina3'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
-        <a href='/pagina4'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
+        <a href='/blog'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
+        <a href='/consultas'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
+        <a href='/empleos'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
+        <a href='/profesionistas'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
 
     </div>
 </div>
@@ -39,10 +39,10 @@
         </div>
     <menu class='menu'>
         <a href='/home'><div class='menuopt <?php echo $selc[0];?>'>Home</div></a>
-        <a href='/pagina1'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
-        <a href='/pagina2'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
-        <a href='/pagina3'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
-        <a href='/pagina4'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
+        <a href='/blog'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
+        <a href='/consultas'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
+        <a href='/empleos'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
+        <a href='/profesionistas'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
 
     </menu>
 </header>
