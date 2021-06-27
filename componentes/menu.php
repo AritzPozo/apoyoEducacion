@@ -16,11 +16,14 @@
         </a>
     </div>
     <div class='menuMobint'>
-    <a href='/home'><div class='menuopt <?php echo $selc[0];?>'>Home</div></a>
-        <a href='/blog'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
-        <a href='/consultas'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
-        <a href='/empleos'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
-        <a href='/profesionistas'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
+        <a href='/home'><div class='menuopt <?php echo $selc[0];?>'>Home</div></a>
+        <a href='/login'><div class='menuopt <?php echo $selc[1];?>'>Inicia Sesión</div></a>
+        <a href='/signup'><div class='menuopt <?php echo $selc[2];?>'>Crea una Cuenta</div></a>
+        <a href='/foroEdPrim'><div class='menuopt <?php echo $selc[3];?>'>Foro Primaria</div></a>
+        <a href='/foroEdSec'><div class='menuopt <?php echo $selc[4];?>'>Foro Secundaria</div></a>
+        <a href='/Blog'><div class='menuopt <?php echo $selc[5];?>'>Blog</div></a>
+        <a href='/artUsoNuevasTec'><div class='menuopt <?php echo $selc[6];?>'>Uso de nuevas tecnologias</div></a>
+        <a href='/artTecEst'><div class='menuopt <?php echo $selc[7];?>'>Técnicas de estudio</div></a>
 
     </div>
 </div>
@@ -39,11 +42,13 @@
         </div>
     <menu class='menu'>
         <a href='/home'><div class='menuopt <?php echo $selc[0];?>'>Home</div></a>
-        <a href='/blog'><div class='menuopt <?php echo $selc[1];?>'>pagina 1</div></a>
-        <a href='/consultas'><div class='menuopt <?php echo $selc[2];?>'>pagina 2</div></a>
-        <a href='/empleos'><div class='menuopt <?php echo $selc[3];?>'>pagina 3</div></a>
-        <a href='/profesionistas'><div class='menuopt <?php echo $selc[4];?>'>pagina 4</div></a>
-
+        <a href='/login'><div class='menuopt <?php echo $selc[1];?>'>Inicia Sesión</div></a>
+        <a href='/signup'><div class='menuopt <?php echo $selc[2];?>'>Crea una Cuenta</div></a>
+        <a href='/foroEdPrim'><div class='menuopt <?php echo $selc[3];?>'>Foro Primaria</div></a>
+        <a href='/foroEdSec'><div class='menuopt <?php echo $selc[4];?>'>Foro Secundaria</div></a>
+        <a href='/blog'><div class='menuopt <?php echo $selc[5];?>'>Blog</div></a>
+        <a href='/artUsoNuevasTec'><div class='menuopt <?php echo $selc[6];?>'>Uso de nuevas tecnologias</div></a>
+        <a href='/artTecEst'><div class='menuopt <?php echo $selc[7];?>'>Técnicas de estudio</div></a>
     </menu>
 </header>
 
