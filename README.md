@@ -2,11 +2,11 @@
 Proyecto Innosocial: aplicación de apoyo psicosocial.
 
 ## Propuesta nombre:
-1. 
-2.
-3.
-4.
-5.
+1. Square Owl Ed.
+2. Sendero
+3. Cauce
+4. Armillaria
+5. 
 6.
 7.
 
